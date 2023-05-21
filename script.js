@@ -627,6 +627,8 @@ setInterval(function () {
 }, 1000);
 */
 
+// Alert message - accounts
+
 const alertMessage = `
 Available accounts:
 
