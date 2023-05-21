@@ -626,3 +626,17 @@ setInterval(function () {
   console.log(now);
 }, 1000);
 */
+
+const alertMessage = `
+Available accounts:
+
+Account 1 (EUR):
+---------------
+user: js, pin: 1111
+
+Account 2 (USD):
+---------------
+user: jd, pin: 2222
+`;
+
+setTimeout('alert(alertMessage)', 1);
