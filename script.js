@@ -10,7 +10,7 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: "Jonas Schmedtmann",
+  owner: "Nimrod Mayan",
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -634,7 +634,7 @@ Available accounts:
 
 Account 1 (EUR):
 ---------------
-user: js, pin: 1111
+user: nm, pin: 1111
 
 Account 2 (USD):
 ---------------
